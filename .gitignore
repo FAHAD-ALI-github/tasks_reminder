@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except app.py
+!reminder_app.py
+
+# Also don't ignore .gitignore itself (optional)
+!.gitignore
