@@ -1,4 +1,4 @@
-# 📌 Study Reminder App
+#  Study Reminder App
 
 A specialized desktop automation tool designed to help students and professionals stick to their schedules. This application reads task data from an Excel file and triggers real-time desktop notifications and automated browser actions based on a predefined "Weekend Plan."
 
@@ -58,11 +58,6 @@ python main.py
 
 ---
 
-## 🌐 Live Demo
-
-[🔗 Live Site](https://your-live-demo-link.com)
-
----
 
 ## 👤 Author
 
